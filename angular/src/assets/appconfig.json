@@ -1,0 +1,5 @@
+{
+  "remoteServiceBaseUrl": "http://localhost:21021",
+  "appBaseUrl": "http://localhost:4200",
+  "jiraBaseUrl": "http://sample-ira.atlassian.net/rest/agile/1.0"
+}
